@@ -1,4 +1,3 @@
-"""
 #1
 def say_hello(func):
     def wrapper():
@@ -37,7 +36,6 @@ def test():
 
 test()
 
-"""
 
 import functools
 import time
